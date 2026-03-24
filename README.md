@@ -1,6 +1,6 @@
 ## Nilank Aman 👋
 
-# 👋 Hi, I’m Nilank Aman
+# Nilank Aman 👋
 
 ### 🚀 Senior SDET | Backend Engineer (Go & Java)
 I am a **Software Development Engineer in Test (SDET)** with **4+ years of experience** in building automated testing frameworks and ensuring high-scale software quality. Currently, I am channeling my "quality-first" mindset into **Backend and Full-Stack Development**, focusing on scalable architectures using **Go** and **Spring Boot**.
@@ -8,17 +8,27 @@ I am a **Software Development Engineer in Test (SDET)** with **4+ years of exper
 ---
 
 ### 🛠️ What I Bring to the Table
-- **Quality-Driven Development:** 4+ years of experience in Python, Java, and TypeScript automation. I don't just write code; I write code that is built to be tested and maintained.
-- **Backend Architecture:** Currently building high-performance services using **Go (Golang)** and **PostgreSQL**.
+- **Quality-Driven Development:** 4+ years of expertise in Python, Java, and TypeScript automation. I specialize in writing code that is inherently testable and maintainable.
+- **Backend Architecture:** Designing high-performance services with **Go (Golang)** and **PostgreSQL**.
 - **Global Communication:** Professional fluency in **English** and conversational proficiency in **Japanese** (Language school graduate, Dec 2025).
 
 ---
 
-### 🔧 Currently Working On
-- **TestGen AI:** A Java/Spring Boot backend service that leverages AI to generate automated test cases.
-- **FinTech & Payments:** I have a deep professional interest in the FinTech space and am building projects focused on secure payment processing logic.
+### 🏗️ Featured Project: TestGen AI
+**TestGen AI** is my flagship backend service built with **Java & Spring Boot**. It leverages AI logic to automatically generate robust test cases, bridging the gap between manual requirement analysis and automated execution.
+*Check it out here:* [Link to your TestGen-AI Repo]
 
 ---
+
+### 🔧 Currently Working On
+- **FinTech & Payments:** Exploring secure payment processing logic and financial service architectures.
+- **AI-Driven QA:** Refining the model logic behind TestGen AI for better edge-case detection.
+
+---
+
+### 📊 GitHub Stats
+![Nilank's Stats](https://github-readme-stats.vercel.app/api?username=nilankaman&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilankaman&layout=compact&theme=dark)
 
 
 ### 🛠️ My Tech Stack
