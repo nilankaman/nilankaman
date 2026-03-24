@@ -14,7 +14,7 @@ I am a **Software Development Engineer in Test (SDET)** with **4+ years of exper
 
 ### 🏗️ Featured Project: TestGen AI
 **TestGen AI** is my flagship backend service built with **Java & Spring Boot**. It leverages AI logic to automatically generate robust test cases, bridging the gap between manual requirement analysis and automated execution.
-*Check it out here:* [Link to your TestGen-AI Repo]
+
 
 ---
 
