@@ -1,7 +1,7 @@
 # Nilank Aman 👋
 
-### 🚀 Senior SDET | Backend Engineer (Go & Java)
-I am a **Software Development Engineer in Test (SDET)** with **4+ years of experience** in building automated testing frameworks and ensuring high-scale software quality. Currently, I am channeling my "quality-first" mindset into **Backend and Full-Stack Development**, focusing on scalable architectures using **Go** and **Spring Boot**.
+### 🚀 QA Engineer | Backend Engineer (Go & Java)
+I am a **QA Engineer** with **4+ years of experience** in building automated testing frameworks and ensuring high-scale software quality. Currently, I am channeling my "quality-first" mindset into **Backend and Full-Stack Development**, focusing on scalable architectures using **Go** and **Spring Boot**.
 
 ---
 
