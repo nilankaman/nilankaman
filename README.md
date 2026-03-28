@@ -31,7 +31,7 @@ I am a **Software Quality Engineer** with **over 4 years of experience** in high
 ---
 
 ### 📫 Let's Connect
-* 💼 [LinkedIn](https://linkedin.com/in/nilank-aman)
+* 💼 [LinkedIn](https://www.linkedin.com/in/nilank-aman-86ab02160/)
 * 📧 nilankaman29@gmail.com
 * 💬 Always happy to chat about **Go**, **SDET strategies**, or **Backend Architecture**.
 
