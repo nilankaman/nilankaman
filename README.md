@@ -23,16 +23,23 @@ I am a **Software Quality Engineer** with **over 4 years of experience** in high
 
 ---
 
+### 🌐 Languages & Communication
+* **English:** Professional Working Proficiency
+* **Hindi:** Native / Bilingual Proficiency
+* **Japanese:**  2-year Language School Graduate, Dec 2025
+
+---
+
 ### 🔭 What I’m Exploring Now
 * **FinTech & Payments:** Deep-diving into the architecture of secure, high-concurrency payment processing systems.
-* **System Design:** Moving beyond code to understand how to scale distributed systems and microservices effectively.
-* **Community:** I recently graduated from a 2-year Japanese language program (Dec 2025) and am excited to contribute to global engineering teams.
+* **System Design:** Understanding how to scale distributed systems and microservices effectively.
+* **Global Collaboration:** Excited to contribute to international engineering teams with a focus on quality and performance.
 
 ---
 
 ### 📫 Let's Connect
 * 💼 [LinkedIn](https://www.linkedin.com/in/nilank-aman-86ab02160/)
-* 📧 nilankaman29@gmail.com
+* 📧 [nilankaman29@gmail.com](mailto:nilankaman29@gmail.com)
 * 💬 Always happy to chat about **Go**, **SDET strategies**, or **Backend Architecture**.
 
 ---
