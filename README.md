@@ -40,8 +40,7 @@ Designed to intelligently generate structured test cases and eliminate repetitiv
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilankaman&layout=compact&theme=dark&hide_border=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilankaman&layout=compact&hide_border=true&theme=tokyonight)
 ---
 
 ## 🌍 Languages
